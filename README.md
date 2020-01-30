@@ -1,4 +1,4 @@
-##Running the Solver:
+## Running the Solver:
 1. Install the following python packages/libraries:
 	a. Google OR-Tools (*python -m pip install --upgrade --user ortools*)
 	b. NetworkX (*pip install --user networkx*)
